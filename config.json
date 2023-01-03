@@ -1,0 +1,9 @@
+{
+    "main_driver" : "main_driver.py",
+    "input_file" : "input.txt",
+    "mapper_count" : "3",
+    "reducer_count" : "3",
+    "mapper_func" : "i_index_map.py",
+    "reducer_func" : "i_index_red.py",
+    "ipconfig" : "ips.json"
+}
